@@ -5,3 +5,6 @@ print("Deu certo")
 #Estrutura de dados
 #Estrutura de controle de fluxo
 #Estrutura de repetição
+
+
+#Para criar uma função
