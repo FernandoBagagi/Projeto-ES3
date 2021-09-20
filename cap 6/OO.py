@@ -86,3 +86,4 @@ class ClasseAbstrata(ABC):
     def metodoAbstrato(self):
         pass
 
+#Para mais informações https://www.ti-enxame.com/pt/python/e-possivel-fazer-classes-abstratas-em-python/1070393545/
