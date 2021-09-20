@@ -1,0 +1,19 @@
+1 Entrar no site https://www.python.org/
+2 Selecionar Downloads
+3 Selecionar Download Python 3.9.7 (verão qaundo isso foi escrito) se for para windows - para outro OS abaixo da opção de mudar o OS, só precisa selecionar o desejado
+3.1 Se escolheu linux baixe compressed source tarball  da versão desejada
+3.2 Se escolheu macOS baixe intel installer ou universal2 installer da versão desejada
+4 duplo clique mo execultavel
+5 Selecione Install now
+6 Permita alteração no sistema
+7 Instalação termindada, voce pode selecionar O link de "Online tutoria" e "Documentation" para obter mais informação
+
+5.1 para Linux (considerando que já tenha o necessario pra instalar pacotes) 
+6.1 Abra o terminal e escreva CD Python 3.9.7 <ou versão mais recente> no terminal e de um enter.
+7.1 Escreva ./configures e de um enter
+8.1 Escreva make e de um enter
+9.1 Escreva sudo make altinstall e de um enter
+
+
+Online tutorial : https://docs.python.org/3.9/tutorial/index.html
+Documentation : https://docs.python.org/3.9/index.html
