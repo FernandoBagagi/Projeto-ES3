@@ -54,13 +54,11 @@ Capítulo 6 - Orientação a Objeto
 -> Herança múltipla
 -> Mixin 
 
-Projeto com o que foi ensinado
+Projeto - Projeto Questões
+-> Por fim temos o Projeto que abordas os assuntos ensinados e mostra como eles são utilizados na prática.
+-> As instruções são: Primeiro você deve rodar o programa e responder as questões. Caso erre alguma você será questionado 
+se você vai querer responder ela novamente. São 4 questões simples sobre os assuntos abordados. Após reponde-las você
+deverá olhar o código e ver como esse programa foi feito. Deve identificar os conceitos que foram trabalhados como também
+deve usar o que você aprendeu para fazer modificações no código para otimizá-lo ou aumentá-lo.
 
-Capítulo 7 - Programação Funcional
--> Funções de Primeira Classe
--> Funções de alta ordem
--> Closure
--> Funções Lambda
--> Map
--> Filter
--> Reduce
+Nós da equipe Germana's desejamos bons estudos!!
