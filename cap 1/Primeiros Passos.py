@@ -1,4 +1,4 @@
-# Capítulo 1 - Primeiros passos na linguagem.
+# Capítulo 1 - Primeiros passos na linguagem
 # Neste capitulo você verá o primeiro exemplo de código em python
 # Para começarmos precisamos entender melhor sobre a linguagem, Python é uma linguagem de programação de alto nível, ou seja, com sintaxe mais simplificada e próxima da linguagem humana, utilizada nas mais diversas aplicações, como desktop, web, servidores e ciência de dados.
 # Ele foi lançado no início dos anos noventa pelo programador e matemático holandês Guido Van Rossum. A linguagem foi projetada para dar ênfase no trabalho do desenvolvedor, facilitando a escrita de um código limpo, simples e legível, tanto em aplicações menores quanto em programas mais complexos.
