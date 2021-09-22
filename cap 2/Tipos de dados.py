@@ -1,7 +1,7 @@
-# Neste capítulo falaremos sobre Estrutura e tipos de dados.
+# Neste capítulo falaremos sobre Estrutura e tipos de dados
 
 # Váriaveis e tipos de dados
-# Assim como outras linguagens de programação temos as váriaveis e os tipos de dados.
+# Assim como outras linguagens de programação temos as váriaveis e os tipos de dados
 
 # Variáveis
 
